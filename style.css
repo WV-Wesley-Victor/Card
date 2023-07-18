@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap');
+
+body {
+    font-family: "Roboto, sans-serif";
+    border: none;
+    padding: none;
+    margin: 0;
+    background: #808286;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+    height: 100vh;
+
+}
+
+.card {
+    background: #fff;
+    border-radius: 20px;
+    box-shadow: 0px 2px 50px rgba(0, 0, 0, 0.678);
+    width: 400px;
+}
+
+.mediaCard {
+    background: url(img/desktop-wallpaper-5120x2880-mountain-retreat-artist-and-backgrounds-summer-5120x2880.jpg) center/cover;
+    height: 300px;
+    width: 100%;
+}
+
+.topCard {
+    padding: 20px;
+    padding-top: 0px;
+}
+
+.bottonCard {
+    padding: 20px;
+}
+
+.actions {
+    background: none;
+    border: none;
+    color: purple;
+}
+
+h2.title {
+    color: #2b3d59;
+}
+
+span.secondText {
+    color: #828fa1;
+}
+
+p.bottonText {
+    color: #445b73;
+}
