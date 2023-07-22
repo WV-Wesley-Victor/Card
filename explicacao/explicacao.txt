@@ -1,0 +1,23 @@
+O código HTML e CSS cria um cartão (card) simples com um título, uma imagem de fundo e um texto de resumo. Vamos explicar o código:
+
+HTML:
+- A estrutura HTML começa com a declaração do documento e as metainformações no <head>, que incluem a definição do conjunto de caracteres, a viewport e outras informações sobre a página.
+- No <body>, há um elemento <div> com a classe "content" que serve como um container para o cartão.
+- Dentro da <div class="content">, há outro elemento <div> com a classe "card" que representa o cartão em si.
+- O cartão é dividido em três seções: "topCard", "mediaCard" e "bottonCard".
+- A seção "topCard" contém um <h2> com a classe "title" e um <span> com a classe "secondText".
+- A seção "mediaCard" é representada por um <div> vazio que será preenchido com uma imagem de fundo usando CSS.
+- A seção "bottonCard" contém um <p> com a classe "bottonText" e um <div> com a classe "actionCard" que agrupa dois botões.
+
+CSS:
+- No CSS, a fonte "Roboto" é importada do Google Fonts para ser usada na página.
+- O estilo para o <body> remove margens, bordas e preenchedores e define um plano de fundo cinza (#808286).
+- A classe "content" é usada para centralizar o cartão na página verticalmente e horizontalmente.
+- A classe "card" estiliza o cartão com um fundo branco, bordas arredondadas e uma sombra suave.
+- A classe "mediaCard" define a imagem de fundo usando a propriedade background com uma imagem específica e configurações de posicionamento/escala para que a imagem cubra todo o espaço da div (centrado e dimensionado para cobrir o espaço).
+- A classe "topCard" remove o preenchimento superior da seção para alinhar o texto no topo do cartão.
+- A classe "bottonCard" adiciona um preenchimento à seção inferior do cartão.
+- A classe "actions" estiliza os botões com cor de texto roxa.
+- As classes "title", "secondText" e "bottonText" definem cores específicas para o texto desses elementos.
+
+Em resumo, esse código cria um cartão simples com uma imagem de fundo, um título, um texto secundário e um texto de resumo. Também inclui dois botões que, por enquanto, não têm funcionalidade. O cartão é estilizado usando CSS para ter uma aparência mais agradável e moderna.
