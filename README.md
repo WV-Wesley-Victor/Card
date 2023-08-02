@@ -24,6 +24,16 @@ Este projeto é uma ótima maneira de aprender sobre HTML, CSS e design de cart�
 * Interface intuitiva: O cartão possui campos simples e claros, facilitando a leitura e a navegação.
 * Personalização fácil: O código-fonte está disponível neste repositório, permitindo que você estude, customize e implemente o cartão em seus próprios projetos web.
 
+## Fontes de Pesquisa
+* W3Schools - HTML Cards: https://www.w3schools.com/howto/howto_css_cards.asp
+* CSS-Tricks - Cards: https://css-tricks.com/snippets/css/complete-guide-grid/
+* Codecademy - CSS Grid: https://www.codecademy.com/learn/learn-css/grid
+* MDN Web Docs - Flexbox: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout
+* Bootstrap Documentation - Cards: https://getbootstrap.com/docs/5.0/components/card/
+* Pinterest: https://www.pinterest.com/
+* Behance: https://www.behance.net/
+* Dribbble: https://dribbble.com/
+
 ## Instalação
 Para utilizar o cartão em seu projeto, siga as etapas abaixo:
 * Faça o download dos arquivos do cartão.
